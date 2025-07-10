@@ -7,10 +7,11 @@ A Python implementation of Vina-like scoring functions specifically adapted for 
 
 ```bash
 # Clone or download the repository
-git clone <repository-url>
-cd vina-dna-scoring
+git clone git@github.com:charlesxu90/vina_prot_dna_affinity.git
+cd vina_prot_dna_affinity
 
-# Install required dependencies
+conda create -n pra-complex python=3.10 pip
+conda activate pra-complex
 pip install -r requirements.txt
 ```
 ### Basic Usage
