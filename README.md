@@ -199,7 +199,7 @@ If you use this software in your research, please cite:
 ```bibtex
 @software{vina_dna_scorer_2025,
   title={Vina-like Scoring Functions for Protein-DNA Complexes},
-  author={Manus AI},
+  author={Manus AI and Xiaopeng Xu},
   year={2025},
   url={https://github.com/your-repo/vina-dna-scoring},
   note={Python implementation of Vina-like scoring functions adapted for protein-DNA interactions}

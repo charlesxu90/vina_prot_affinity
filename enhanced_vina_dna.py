@@ -4,7 +4,7 @@ Enhanced Vina-like Scoring Functions for Protein-DNA Complexes (Standalone)
 
 This standalone version includes all functionality without external dependencies.
 
-Author: Manus AI Assistant
+Author: Manus AI Assistant and Xiaopeng Xu
 Date: 2025-07-09
 """
 

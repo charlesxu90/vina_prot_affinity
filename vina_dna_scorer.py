@@ -5,7 +5,7 @@ Standalone Vina-like Scoring Functions for Protein-DNA Complexes
 This version only depends on BioPython and NumPy, avoiding MDAnalysis
 and SciPy compatibility issues.
 
-Author: Manus AI Assistant
+Author: Manus AI Assistant and Xiaopeng Xu
 Date: 2025-07-09
 """
 import numpy as np
